@@ -4,6 +4,7 @@
 ### 灵活可替换的权限验证组件，HPlus提供权限验证，也可以替换自己的权限验证插件
 ### 演示地址：http://shop.sh.cn/  用户名 admin 密码 admin
 
+
 #### 欢迎加入HPlus交流群，群聊号码：512465490
 点击链接加入群聊【hyperf-admin交流群】：<a href="https://qm.qq.com/cgi-bin/qm/qr?k=pCkT8bLR-scfzGhiLYAu2AuEu5pzOfdD&authKey=0L9w5QrmZJQpDdaH9R5WpPK5mUPyh1RiM3nqcRggpMpM8heAgBBXWdzuk9zkyRko&noverify=0">群聊号码：512465490</a>
 <p align="center">
@@ -15,6 +16,8 @@
     <a href="https://github.com/swoole/swoole-src"><img src="https://img.shields.io/badge/swoole-%3E=4.5-brightgreen.svg?maxAge=2592000" alt="Swoole Version"></a>
     <a href="https://github.com/hyperf-plus/admin/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hyperf-plus/admin.svg?maxAge=2592000" alt="HyperfAdmin License"></a>
 </p>
+
+### laravel版本地址  <a href="https://github.com/SmallRuralDog/laravel-vue-admin">laravel-vue-admin</a>
 
 
 ### 安装
@@ -85,3 +88,6 @@ return [
 #### 以插件形式开箱即用
 #### 可以做到无需VUE前端可实现快速开发各种表单
 #### 喜欢的帮忙点个star
+
+### 鸣谢：
+-  https://github.com/SmallRuralDog/laravel-vue-admin
